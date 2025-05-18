@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2024.8.1)  18 MAY 2025 11:30
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2024.8.1)  18 MAY 2025 13:42
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1888,7 +1888,7 @@ Package hyperref Info: Link coloring OFF on input line 20.
 \@outlinefile=\write9
 \openout9 = `Relatorio_1.out'.
 
-<./image/capa/ISEP_marca_cor_grande.png, id=54, 730.6497pt x 278.2395pt>
+<./image/capa/ISEP_marca_cor_grande.png, id=62, 730.6497pt x 278.2395pt>
 File: ./image/capa/ISEP_marca_cor_grande.png Graphic file (type png)
 <use ./image/capa/ISEP_marca_cor_grande.png>
 Package pdftex.def Info: ./image/capa/ISEP_marca_cor_grande.png  used on input 
@@ -1932,7 +1932,7 @@ Overfull \hbox (15.91661pt too wide) in paragraph at lines 23--23
  [][] 
  []
 
-<./image/ROQ/ROQ.jpg, id=56, 288.07625pt x 110.4125pt>
+<./image/ROQ/ROQ.jpg, id=64, 288.07625pt x 110.4125pt>
 File: ./image/ROQ/ROQ.jpg Graphic file (type jpg)
 <use ./image/ROQ/ROQ.jpg>
 Package pdftex.def Info: ./image/ROQ/ROQ.jpg  used on input line 23.
@@ -1993,7 +1993,7 @@ l.5 \listoffigures
 
 
 (include/mainmatter/section2.tex
-<./image/OB/OB_contributions.jpg, id=126, 587.19376pt x 627.34375pt>
+<./image/OB/OB_contributions.jpg, id=136, 587.19376pt x 627.34375pt>
 File: ./image/OB/OB_contributions.jpg Graphic file (type jpg)
 <use ./image/OB/OB_contributions.jpg>
 Package pdftex.def Info: ./image/OB/OB_contributions.jpg  used on input line 8.
@@ -2004,7 +2004,7 @@ Package pdftex.def Info: ./image/OB/OB_contributions.jpg  used on input line 8.
 
 
  <./image/OB/OB_contributions.jpg>]
-<./image/OB/OB_MUltilevelmodelCulture.jpg, id=136, 575.14874pt x 578.16pt>
+<./image/OB/OB_MUltilevelmodelCulture.jpg, id=147, 575.14874pt x 578.16pt>
 File: ./image/OB/OB_MUltilevelmodelCulture.jpg Graphic file (type jpg)
 <use ./image/OB/OB_MUltilevelmodelCulture.jpg>
 Package pdftex.def Info: ./image/OB/OB_MUltilevelmodelCulture.jpg  used on inpu
@@ -2015,7 +2015,7 @@ Overfull \hbox (16.3387pt too wide) in paragraph at lines 21--22
 []  
  []
 
-<./image/OB/Hofstede_pt.jpg, id=137, 673.51625pt x 340.27126pt>
+<./image/OB/Hofstede_pt.jpg, id=148, 673.51625pt x 340.27126pt>
 File: ./image/OB/Hofstede_pt.jpg Graphic file (type jpg)
 <use ./image/OB/Hofstede_pt.jpg>
 Package pdftex.def Info: ./image/OB/Hofstede_pt.jpg  used on input line 26.
@@ -2025,7 +2025,7 @@ Overfull \hbox (94.80849pt too wide) in paragraph at lines 26--27
 []  
  []
 
-<./image/OB/OC_Dimensions.jpg, id=141, 721.69624pt x 331.2375pt>
+<./image/OB/OC_Dimensions.jpg, id=152, 721.69624pt x 331.2375pt>
 File: ./image/OB/OC_Dimensions.jpg Graphic file (type jpg)
 <use ./image/OB/OC_Dimensions.jpg>
 Package pdftex.def Info: ./image/OB/OC_Dimensions.jpg  used on input line 47.
@@ -2035,7 +2035,7 @@ Package pdftex.def Info: ./image/OB/OC_Dimensions.jpg  used on input line 47.
 \openout2 = `./include/mainmatter/section3.aux'.
 
  (include/mainmatter/section3.tex
-<./image/ROQ/maquinas/ECO-P18_600x600-2-275x275.jpg, id=156, 276.03125pt x 276.
+<./image/ROQ/maquinas/ECO-P18_600x600-2-275x275.jpg, id=169, 276.03125pt x 276.
 03125pt>
 File: ./image/ROQ/maquinas/ECO-P18_600x600-2-275x275.jpg Graphic file (type jpg
 )
@@ -2043,20 +2043,20 @@ File: ./image/ROQ/maquinas/ECO-P18_600x600-2-275x275.jpg Graphic file (type jpg
 Package pdftex.def Info: ./image/ROQ/maquinas/ECO-P18_600x600-2-275x275.jpg  us
 ed on input line 13.
 (pdftex.def)             Requested size: 138.01527pt x 138.01527pt.
-<./image/ROQ/maquinas/EVO-600x600-275x275.jpg, id=157, 276.03125pt x 276.03125p
+<./image/ROQ/maquinas/EVO-600x600-275x275.jpg, id=170, 276.03125pt x 276.03125p
 t>
 File: ./image/ROQ/maquinas/EVO-600x600-275x275.jpg Graphic file (type jpg)
 <use ./image/ROQ/maquinas/EVO-600x600-275x275.jpg>
 Package pdftex.def Info: ./image/ROQ/maquinas/EVO-600x600-275x275.jpg  used on 
 input line 14.
 (pdftex.def)             Requested size: 138.01527pt x 138.01527pt.
-<./image/ROQ/maquinas/nanop10-275x275.jpg, id=158, 276.03125pt x 276.03125pt>
+<./image/ROQ/maquinas/nanop10-275x275.jpg, id=171, 276.03125pt x 276.03125pt>
 File: ./image/ROQ/maquinas/nanop10-275x275.jpg Graphic file (type jpg)
 <use ./image/ROQ/maquinas/nanop10-275x275.jpg>
 Package pdftex.def Info: ./image/ROQ/maquinas/nanop10-275x275.jpg  used on inpu
 t line 15.
 (pdftex.def)             Requested size: 138.01527pt x 138.01527pt.
-<./image/ROQ/maquinas/NEXTP18-600x6001-275x275.jpg, id=159, 276.03125pt x 276.0
+<./image/ROQ/maquinas/NEXTP18-600x6001-275x275.jpg, id=172, 276.03125pt x 276.0
 3125pt>
 File: ./image/ROQ/maquinas/NEXTP18-600x6001-275x275.jpg Graphic file (type jpg)
 
@@ -2064,14 +2064,14 @@ File: ./image/ROQ/maquinas/NEXTP18-600x6001-275x275.jpg Graphic file (type jpg)
 Package pdftex.def Info: ./image/ROQ/maquinas/NEXTP18-600x6001-275x275.jpg  use
 d on input line 16.
 (pdftex.def)             Requested size: 138.01527pt x 138.01527pt.
-<./image/ROQ/maquinas/PRO-600x600-275x275.jpg, id=160, 276.03125pt x 276.03125p
+<./image/ROQ/maquinas/PRO-600x600-275x275.jpg, id=173, 276.03125pt x 276.03125p
 t>
 File: ./image/ROQ/maquinas/PRO-600x600-275x275.jpg Graphic file (type jpg)
 <use ./image/ROQ/maquinas/PRO-600x600-275x275.jpg>
 Package pdftex.def Info: ./image/ROQ/maquinas/PRO-600x600-275x275.jpg  used on 
 input line 17.
 (pdftex.def)             Requested size: 138.01527pt x 138.01527pt.
-<./image/ROQ/maquinas/You-600x600-275x275.jpg, id=161, 276.03125pt x 276.03125p
+<./image/ROQ/maquinas/You-600x600-275x275.jpg, id=174, 276.03125pt x 276.03125p
 t>
 File: ./image/ROQ/maquinas/You-600x600-275x275.jpg Graphic file (type jpg)
 <use ./image/ROQ/maquinas/You-600x600-275x275.jpg>
@@ -2099,12 +2099,12 @@ C.enc}]) [8]
 \openout2 = `./include/mainmatter/section5.aux'.
 
  (include/mainmatter/section5.tex
-<./image/OB/Leadership.jpg, id=181, 1072.005pt x 559.08875pt>
+<./image/OB/Leadership.jpg, id=195, 1072.005pt x 559.08875pt>
 File: ./image/OB/Leadership.jpg Graphic file (type jpg)
 <use ./image/OB/Leadership.jpg>
 Package pdftex.def Info: ./image/OB/Leadership.jpg  used on input line 43.
 (pdftex.def)             Requested size: 428.7944pt x 223.63153pt.
-<./image/OB/Culture.jpg, id=184, 891.33pt x 558.085pt>
+<./image/OB/Culture.jpg, id=198, 891.33pt x 558.085pt>
 File: ./image/OB/Culture.jpg Graphic file (type jpg)
 <use ./image/OB/Culture.jpg>
 Package pdftex.def Info: ./image/OB/Culture.jpg  used on input line 51.
@@ -2114,7 +2114,7 @@ Package pdftex.def Info: ./image/OB/Culture.jpg  used on input line 51.
 
 
  <./image/OB/Leadership.jpg>]
-<./image/OB/Ogbonna_Harris.jpg, id=192, 1222.5675pt x 610.28pt>
+<./image/OB/Ogbonna_Harris.jpg, id=206, 1222.5675pt x 610.28pt>
 File: ./image/OB/Ogbonna_Harris.jpg Graphic file (type jpg)
 <use ./image/OB/Ogbonna_Harris.jpg>
 Package pdftex.def Info: ./image/OB/Ogbonna_Harris.jpg  used on input line 59.
@@ -2163,40 +2163,79 @@ babelbib: Using the BibTeX style's default font for `numeral'.
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2020/03/25>
  ***********
-Package rerunfilecheck Info: File `Relatorio_1.out' has not changed.
-(rerunfilecheck)             Checksum: 09E34CC7B4191C43998B446C910DD1FA;1821.
-Package rerunfilecheck Info: File `Relatorio_1.brf' has not changed.
-(rerunfilecheck)             Checksum: 4782FAA306B291C38D2B55125E64AADE;893.
+
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
+
+Package rerunfilecheck Warning: File `Relatorio_1.out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+Package rerunfilecheck Info: Checksums for `Relatorio_1.out':
+(rerunfilecheck)             Before: 5C81E42D2074D77712D8F4FCA931C7E3;2049
+(rerunfilecheck)             After:  09E34CC7B4191C43998B446C910DD1FA;1821.
+
+Package rerunfilecheck Warning: File `Relatorio_1.brf' has changed.
+(rerunfilecheck)                Rerun to get bibliographical references right.
+
+Package rerunfilecheck Info: Checksums for `Relatorio_1.brf':
+(rerunfilecheck)             Before: 54FE702B82916A8C0D6E5CE9BDB4604C;897
+(rerunfilecheck)             After:  4782FAA306B291C38D2B55125E64AADE;893.
  ) 
 Here is how much of TeX's memory you used:
- 68377 strings out of 474486
- 1561122 string characters out of 5743756
- 2341005 words of memory out of 5000000
- 89536 multiletter control sequences out of 15000+600000
+ 68385 strings out of 474486
+ 1561534 string characters out of 5743756
+ 2341007 words of memory out of 5000000
+ 89538 multiletter control sequences out of 15000+600000
  660637 words of font info for 142 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  108i,20n,134p,2431b,1177s stack positions out of 10000i,1000n,20000p,200000b,200000s
-<C:/Users/sergi/AppData/Local/Programs/MiKTeX/fonts/type1/public/mnsymbol/MnS
-ymbol10.pfb><C:/Users/sergi/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm
-/lmbx10.pfb><C:/Users/sergi/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm
-/lmbx12.pfb><C:/Users/sergi/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm
-/lmbx8.pfb><C:/Users/sergi/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/
-lmbx9.pfb><C:/Users/sergi/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/l
-mmi10.pfb><C:/Users/sergi/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/l
-mmi12.pfb><C:/Users/sergi/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/l
-mmi8.pfb><C:/Users/sergi/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lm
-r10.pfb><C:/Users/sergi/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr
-12.pfb><C:/Users/sergi/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr1
-7.pfb><C:/Users/sergi/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr5.
-pfb><C:/Users/sergi/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr6.pf
-b><C:/Users/sergi/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr7.pfb>
-<C:/Users/sergi/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr8.pfb><C
-:/Users/sergi/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr9.pfb><C:/
-Users/sergi/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmri10.pfb><C:/
-Users/sergi/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmri12.pfb>
-Output written on Relatorio_1.pdf (18 pages, 1215883 bytes).
+
+pdfTeX warning (dest): name{figure.caption.13} has been referenced but does not
+ exist, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{figure.caption.12} has been referenced but does not
+ exist, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{figure.caption.11} has been referenced but does not
+ exist, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{figure.caption.10} has been referenced but does not
+ exist, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{section*.5} has been referenced but does not exist,
+ replaced by a fixed one
+
+
+pdfTeX warning (dest): name{section*.3} has been referenced but does not exist,
+ replaced by a fixed one
+
+<C:/Users/sergi/AppData/Local/Programs/MiKTeX/fonts/type1/public/mnsymbol/MnSym
+bol10.pfb><C:/Users/sergi/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/l
+mbx10.pfb><C:/Users/sergi/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/l
+mbx12.pfb><C:/Users/sergi/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/l
+mbx8.pfb><C:/Users/sergi/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lm
+bx9.pfb><C:/Users/sergi/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmm
+i10.pfb><C:/Users/sergi/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmm
+i12.pfb><C:/Users/sergi/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmm
+i8.pfb><C:/Users/sergi/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr1
+0.pfb><C:/Users/sergi/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr12
+.pfb><C:/Users/sergi/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr17.
+pfb><C:/Users/sergi/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr5.pf
+b><C:/Users/sergi/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr6.pfb>
+<C:/Users/sergi/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr7.pfb><C
+:/Users/sergi/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr8.pfb><C:/
+Users/sergi/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr9.pfb><C:/Us
+ers/sergi/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmri10.pfb><C:/Us
+ers/sergi/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmri12.pfb>
+Output written on Relatorio_1.pdf (18 pages, 1217595 bytes).
 PDF statistics:
- 341 PDF objects out of 1000 (max. 8388607)
- 48 named destinations out of 1000 (max. 500000)
- 184 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 356 PDF objects out of 1000 (max. 8388607)
+ 54 named destinations out of 1000 (max. 500000)
+ 200 words of extra memory for PDF output out of 10000 (max. 10000000)
 
