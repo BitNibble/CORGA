@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2024.8.1)  14 MAY 2025 00:32
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2024.8.1)  4 JUN 2025 19:48
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1902,12 +1902,19 @@ Package pdftex.def Info: ./image/Objectives/Meaning_of_Life.jpeg  used on input
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2020/03/25>
  ***********
-Package rerunfilecheck Info: File `Apresentacao_2.out' has not changed.
-(rerunfilecheck)             Checksum: 1A175E4DD92941EB8C33EA00FCE22A3A;409.
+
+
+Package rerunfilecheck Warning: File `Apresentacao_2.out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+Package rerunfilecheck Info: Checksums for `Apresentacao_2.out':
+(rerunfilecheck)             Before: D02AC437996486647489D654DE227A25;412
+(rerunfilecheck)             After:  1A175E4DD92941EB8C33EA00FCE22A3A;409.
  ) 
 Here is how much of TeX's memory you used:
  42270 strings out of 474486
- 896784 string characters out of 5743756
+ 896880 string characters out of 5743756
  1945542 words of memory out of 5000000
  63679 multiletter control sequences out of 15000+600000
  604943 words of font info for 70 fonts, out of 8000000 for 9000
